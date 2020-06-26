@@ -1,0 +1,3 @@
+- A queue of tasks to do
+    - A task has an estimated time of completion
+    - A task has an actual time spent
