@@ -7,6 +7,9 @@ Classes:
         -   Estimated Time
         -   Actual Time
         -   isRecurring
+        -   A task has a category
+    Task Category:
+        - A category that many tasks.
     Backlog:
         -   A container of Tasks
     Completed:
